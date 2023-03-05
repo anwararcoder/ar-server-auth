@@ -1,0 +1,32 @@
+{
+    "users": [
+      {
+        "firstName": "Anwar",
+        "lastName": "Ramadan",
+        "address": "sansaft",
+        "city": "Menouf",
+        "country": "Egypt",
+        "phone": "01212843661",
+        "email": "nourramadan144@gmail.com",
+        "password": "147258369",
+        "question": "What is your favorite soccer team",
+        "answerTheQuestion": "Al-Ahly",
+        "photo": "blob:http://localhost:3000/05ad9d7f-48d1-4972-977e-e86e9c25c342",
+        "id": 1
+      },
+      {
+        "firstName": "Ahmed",
+        "lastName": "Mohamed",
+        "address": "sansaft",
+        "city": "menouf",
+        "country": "Egypt",
+        "phone": "01212843661",
+        "email": "ahmedmohamed@gmail.com",
+        "password": "789456123",
+        "question": "What is your favorite soccer team",
+        "answerTheQuestion": "Al-Ahly",
+        "photo": "blob:http://localhost:3000/2c22af1e-20ae-4614-bbd0-fa3725206c2f",
+        "id": 2
+      }
+    ]
+  }
