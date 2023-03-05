@@ -1,10 +1,12 @@
-# Deploy `Json-Server` to `Glitch`
+#Create Server By Using Express.js & Json Server
+
+## Deploy `Json-Server` to `Glitch`
 
 > Instructions how to deploy the full fake REST API [json-server](https://github.com/typicode/json-server) to various free hosting sites. Should only be used in development purpose but can act as a simpler database for smaller applications.
 
 - [**Create your database**](#create-your-database)
 - [Deploy to **Glitch**](#deploy-to-glitch)
-## Create your database
+### Create your database
 
 1. Clone this repository to your computer
 
@@ -36,7 +38,7 @@ _this example will create `/users` route , each resource will have `id`, `firstN
 
 ---
 
-## Deploy to Glitch
+### Deploy to Glitch
 
 Not tested 100%. Same as with Heroku, will sleep after a while.
 
@@ -49,7 +51,7 @@ Not tested 100%. Same as with Heroku, will sleep after a while.
 
 ----
 
-### Author Links
+#### Author Links
 
 👋 Hello, I'm Anwar Ramadan - uI & Front End Developer
 
